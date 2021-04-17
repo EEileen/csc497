@@ -1,0 +1,271 @@
+{
+  "created_at" : "Thu Feb 25 08:54:05 +0000 2021",
+  "id" : 1364861212689719300,
+  "id_str" : "1364861212689719300",
+  "text" : "RT @CHRONOLOGYDAY: #modi_job_do\nDear Govt, \n@HansrajMeena\n\nMillions of families depend upon govt jobs to raise their living standard. Don't…",
+  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated" : false,
+  "in_reply_to_status_id" : null,
+  "in_reply_to_status_id_str" : null,
+  "in_reply_to_user_id" : null,
+  "in_reply_to_user_id_str" : null,
+  "in_reply_to_screen_name" : null,
+  "user" : {
+    "id" : 1364437819062587395,
+    "id_str" : "1364437819062587395",
+    "name" : "Varsha",
+    "screen_name" : "Varsha18816852",
+    "location" : null,
+    "url" : null,
+    "description" : null,
+    "translator_type" : "none",
+    "protected" : false,
+    "verified" : false,
+    "followers_count" : 1,
+    "friends_count" : 4,
+    "listed_count" : 0,
+    "favourites_count" : 2,
+    "statuses_count" : 195,
+    "created_at" : "Wed Feb 24 04:52:00 +0000 2021",
+    "utc_offset" : null,
+    "time_zone" : null,
+    "geo_enabled" : false,
+    "lang" : null,
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "profile_background_color" : "F5F8FA",
+    "profile_background_image_url" : "",
+    "profile_background_image_url_https" : "",
+    "profile_background_tile" : false,
+    "profile_link_color" : "1DA1F2",
+    "profile_sidebar_border_color" : "C0DEED",
+    "profile_sidebar_fill_color" : "DDEEF6",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile" : true,
+    "default_profile_image" : false,
+    "following" : null,
+    "follow_request_sent" : null,
+    "notifications" : null
+  },
+  "geo" : null,
+  "coordinates" : null,
+  "place" : null,
+  "contributors" : null,
+  "retweeted_status" : {
+    "created_at" : "Thu Feb 25 08:49:08 +0000 2021",
+    "id" : 1364859966079737857,
+    "id_str" : "1364859966079737857",
+    "text" : "#modi_job_do\nDear Govt, \n@HansrajMeena\n\nMillions of families depend upon govt jobs to raise their living standard.… https://t.co/ZZ8i6qu30v",
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated" : true,
+    "in_reply_to_status_id" : null,
+    "in_reply_to_status_id_str" : null,
+    "in_reply_to_user_id" : null,
+    "in_reply_to_user_id_str" : null,
+    "in_reply_to_screen_name" : null,
+    "user" : {
+      "id" : 1227980168968462336,
+      "id_str" : "1227980168968462336",
+      "name" : "INDIA STUDENTS & YOUTH",
+      "screen_name" : "CHRONOLOGYDAY",
+      "location" : "india",
+      "url" : null,
+      "description" : "we are Indian, firstly and lastly\n100% fallow Back",
+      "translator_type" : "none",
+      "protected" : false,
+      "verified" : false,
+      "followers_count" : 255,
+      "friends_count" : 139,
+      "listed_count" : 0,
+      "favourites_count" : 15564,
+      "statuses_count" : 3501,
+      "created_at" : "Thu Feb 13 15:37:54 +0000 2020",
+      "utc_offset" : null,
+      "time_zone" : null,
+      "geo_enabled" : false,
+      "lang" : null,
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "profile_background_color" : "F5F8FA",
+      "profile_background_image_url" : "",
+      "profile_background_image_url_https" : "",
+      "profile_background_tile" : false,
+      "profile_link_color" : "1DA1F2",
+      "profile_sidebar_border_color" : "C0DEED",
+      "profile_sidebar_fill_color" : "DDEEF6",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/1364859640467447809/x7czILRF_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1364859640467447809/x7czILRF_normal.jpg",
+      "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1227980168968462336/1614242869",
+      "default_profile" : true,
+      "default_profile_image" : false,
+      "following" : null,
+      "follow_request_sent" : null,
+      "notifications" : null
+    },
+    "geo" : null,
+    "coordinates" : null,
+    "place" : null,
+    "contributors" : null,
+    "is_quote_status" : false,
+    "extended_tweet" : {
+      "full_text" : "#modi_job_do\nDear Govt, \n@HansrajMeena\n\nMillions of families depend upon govt jobs to raise their living standard. Don't play with their emotions. https://t.co/yg2x4YbwLv",
+      "display_text_range" : [ 0, 170 ],
+      "entities" : {
+        "hashtags" : [ {
+          "text" : "modi_job_do",
+          "indices" : [ 0, 12 ]
+        } ],
+        "urls" : [ ],
+        "user_mentions" : [ {
+          "screen_name" : "HansrajMeena",
+          "name" : "Hansraj Meena",
+          "id" : 2730745332,
+          "id_str" : "2730745332",
+          "indices" : [ 25, 38 ]
+        } ],
+        "symbols" : [ ],
+        "media" : [ {
+          "id" : 1364837855202213888,
+          "id_str" : "1364837855202213888",
+          "indices" : [ 147, 170 ],
+          "media_url" : "http://pbs.twimg.com/media/EvDgzE9VgAAj3lQ.jpg",
+          "media_url_https" : "https://pbs.twimg.com/media/EvDgzE9VgAAj3lQ.jpg",
+          "url" : "https://t.co/yg2x4YbwLv",
+          "display_url" : "pic.twitter.com/yg2x4YbwLv",
+          "expanded_url" : "https://twitter.com/Careerwill1/status/1364837863708188675/photo/1",
+          "type" : "photo",
+          "sizes" : {
+            "large" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            },
+            "thumb" : {
+              "w" : 150,
+              "h" : 150,
+              "resize" : "crop"
+            },
+            "medium" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            },
+            "small" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            }
+          },
+          "source_status_id" : 1364837863708188675,
+          "source_status_id_str" : "1364837863708188675",
+          "source_user_id" : 1288724397952385026,
+          "source_user_id_str" : "1288724397952385026"
+        } ]
+      },
+      "extended_entities" : {
+        "media" : [ {
+          "id" : 1364837855202213888,
+          "id_str" : "1364837855202213888",
+          "indices" : [ 147, 170 ],
+          "media_url" : "http://pbs.twimg.com/media/EvDgzE9VgAAj3lQ.jpg",
+          "media_url_https" : "https://pbs.twimg.com/media/EvDgzE9VgAAj3lQ.jpg",
+          "url" : "https://t.co/yg2x4YbwLv",
+          "display_url" : "pic.twitter.com/yg2x4YbwLv",
+          "expanded_url" : "https://twitter.com/Careerwill1/status/1364837863708188675/photo/1",
+          "type" : "photo",
+          "sizes" : {
+            "large" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            },
+            "thumb" : {
+              "w" : 150,
+              "h" : 150,
+              "resize" : "crop"
+            },
+            "medium" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            },
+            "small" : {
+              "w" : 679,
+              "h" : 649,
+              "resize" : "fit"
+            }
+          },
+          "source_status_id" : 1364837863708188675,
+          "source_status_id_str" : "1364837863708188675",
+          "source_user_id" : 1288724397952385026,
+          "source_user_id_str" : "1288724397952385026"
+        } ]
+      }
+    },
+    "quote_count" : 17,
+    "reply_count" : 2,
+    "retweet_count" : 1052,
+    "favorite_count" : 274,
+    "entities" : {
+      "hashtags" : [ {
+        "text" : "modi_job_do",
+        "indices" : [ 0, 12 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/ZZ8i6qu30v",
+        "expanded_url" : "https://twitter.com/i/web/status/1364859966079737857",
+        "display_url" : "twitter.com/i/web/status/1…",
+        "indices" : [ 116, 139 ]
+      } ],
+      "user_mentions" : [ {
+        "screen_name" : "HansrajMeena",
+        "name" : "Hansraj Meena",
+        "id" : 2730745332,
+        "id_str" : "2730745332",
+        "indices" : [ 25, 38 ]
+      } ],
+      "symbols" : [ ]
+    },
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "filter_level" : "low",
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "quote_count" : 0,
+  "reply_count" : 0,
+  "retweet_count" : 0,
+  "favorite_count" : 0,
+  "entities" : {
+    "hashtags" : [ {
+      "text" : "modi_job_do",
+      "indices" : [ 19, 31 ]
+    } ],
+    "urls" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "CHRONOLOGYDAY",
+      "name" : "INDIA STUDENTS & YOUTH",
+      "id" : 1227980168968462336,
+      "id_str" : "1227980168968462336",
+      "indices" : [ 3, 17 ]
+    }, {
+      "screen_name" : "HansrajMeena",
+      "name" : "Hansraj Meena",
+      "id" : 2730745332,
+      "id_str" : "2730745332",
+      "indices" : [ 44, 57 ]
+    } ],
+    "symbols" : [ ]
+  },
+  "favorited" : false,
+  "retweeted" : false,
+  "filter_level" : "low",
+  "lang" : "en",
+  "timestamp_ms" : "1614243245657"
+}
